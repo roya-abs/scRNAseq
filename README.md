@@ -1,4 +1,4 @@
-# Single-cell RNA-seq Analysis Using Python
+## Single-cell RNA-seq Analysis Using Python
 
 While transcriptional analysis by scRNA-seq continues to revolutionize the biological sciences, the demand for corresponding computational and statistical skills are becoming an essential skill for biologists. This course is designed for biologists with a basic skills of programming to confidently conduct the course and scRNA-seq data analysis. With a variety of scRNA-seq methodologies at our disposal, the challenge lies in using appropriate tools in the right way to draw meaningful biological conclusions. This course aims to provide an introduction to this complex landscape. In practical exercises with a real data set, you'll learn how to use computational methods and make sense of your results. Each day will start with lectures in the morning, followed by guided practical programming sessions in the afternoon to facilitate an experiential learning environment.
 
