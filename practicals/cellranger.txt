@@ -1,0 +1,10 @@
+#connect to the server
+ssh <firstname>@18.153.171.64 
+
+#enter the password
+
+#run the cellranger count command
+cellranger count --id <your_desired_name> --fastqs /course/reads/ --transcriptome /course/chr21_ref/ --create-bam true
+
+#Download the output
+scp -r <firstname>@18.153.171.64:/home/<firstname>/<your_desired_name>/outs .
